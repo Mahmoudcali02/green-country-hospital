@@ -25,9 +25,9 @@ A complete responsive hospital website design using html css and vanilla javascr
 * responsive testimonial / review card section using css grid.
 
 # Links 
-Repo Link: 
+Repo Link: https://github.com/Mahmoudcali02/green-country-hospital
 
-Deployed Link: 
+Deployed Link: https://mahmoudcali02.github.io/green-country-hospital/#index.html
 
 # Screenshots
 ![Image of contact section](image/home-screenshot.JPG)
